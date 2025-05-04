@@ -51,11 +51,11 @@ I specialize in building interactive web experiences using React.js and modern f
 
 ## 📚 Education
 
-- **Bachelor of Computer Application** (2023-2025)  
+- **Bachelor of Computer Application** (2022-2025)  
   Institute of Management Study, MAKAUT  
   CGPA: 8.4/10
 
-- **High School Diploma** (2021-2022)  
+- **High School Diploma** (2020-2022)  
   Grizzly Vidyalya School, CBSE  
   Percentage: 78%
 
