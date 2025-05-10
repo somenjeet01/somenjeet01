@@ -25,7 +25,7 @@
 - 📘 Learning **Advanced React Patterns, TypeScript, and backend optimisation**
 - 🤝 Open to collaborating on **Open Source and Full-Stack Projects**
 - 💬 Ask me about **React, JavaScript, Mongodb, Express.js, and UI/UX**
-- 📫 Reach me at: **[somenjeet9@gmail.com](mailto:somenjeet9@gmail.com)**
+- 📫 Reach me at: **[somenjeet2004@gmail.com](mailto:somenjeet9@gmail.com)**
 - 📍 Based in **Kolkata, India**
 
 
@@ -79,27 +79,11 @@
   <a href="https://github.com/somenjeet01">
     <img src="https://github-readme-stats.vercel.app/api?username=somenjeet01&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="Somen Jeet's GitHub Stats"/>
   </a>
-  &nbsp; &nbsp;
+  &nbsp;
   <a href="https://github.com/somenjeet01">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=somenjeet01&theme=radical&hide_border=true" height="170" alt="GitHub Streak"/>
   </a>
 </div>
-
-## 📈 Activity Graph
-<!-- Snake Animation -->
-<div align="center">
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-## 📚 Education
-
-- **Bachelor of Computer Application** (2022-2025)  
-  Institute of Management Study, MAKAUT  
-  CGPA: 8.4/10
-
-- **High School Diploma** (2020-2022)  
-  Grizzly Vidyalya School, CBSE  
-  Percentage: 78%
 
 ## 📫 Get In Touch
 
