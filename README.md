@@ -1,4 +1,8 @@
-# Somen Jeet - Frontend Developer
+<div align="center">
+  <!-- Dynamic SVG Banner with Header and Subheading -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Somen%20Jeet&desc=Full-Stack%20Developer&animation=fadeIn&fontAlignY=35&descAlignY=55&fontColor=ffffff&fontSize=80&descSize=30" />
+</div>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/somen-jeet-562044259/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github)](https://github.com/somenjeet01)
@@ -7,9 +11,28 @@
 
 ## 👨‍💻 About Me
 
-Frontend Developer with a focus on creating responsive and user-friendly web applications. Currently pursuing a Bachelor of Computer Application at the Institute of Management Study, MAKAUT. Passionate about modern web technologies and committed to delivering high-quality, visually appealing solutions.
+<div align="left">
+  <!-- Upgraded Animated Developer GIF with Particle Effect -->
+  <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation" />
+  
+  <p><strong>Full Stack Developer</strong> passionate about building scalable, secure, and performant web applications. Currently pursuing a Bachelor of Computer Application at the Institute of Management Study, MAKAUT </p>
+  
+  <p>I specialize in creating dynamic user experiences with <strong>React.js</strong> on the frontend and developing robust backends using the <strong>MERN stack</strong>. My journey is driven by curiosity, collaboration, and a dedication to solving real-world problems through code.</p>
+  
+ ### 🚀 What I'm Up To:
 
-I specialize in building interactive web experiences using React.js and modern frontend frameworks. My technical journey is driven by continuous learning and applying innovative approaches to solve real-world problems. Particularly interested in user interface design and creating seamless user experiences through clean, efficient code.
+- 👋 Currently working on **React.js and MERN Stack projects**
+- 📘 Learning **Advanced React Patterns, TypeScript, and backend optimisation**
+- 🤝 Open to collaborating on **Open Source and Full-Stack Projects**
+- 💬 Ask me about **React, JavaScript, Mongodb, Express.js, and UI/UX**
+- 📫 Reach me at: **[somenjeet9@gmail.com](mailto:somenjeet9@gmail.com)**
+- 📍 Based in **Kolkata, India**
+
+
+
+  <!-- Animated Wave Line -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -48,6 +71,25 @@ I specialize in building interactive web experiences using React.js and modern f
 - **Smart India Hackathon 2024**: Team member of TAASK_404, working on a Smart Education problem statement (ID: 1667)
 - **Research Contributor**: Participated in research on 'Digital Transformation: Navigating the New Frontier for IT industry'
 - **Open Source Contributor**: Actively contributed to community projects with a focus on frontend improvements and bug fixes
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <a href="https://github.com/somenjeet01">
+    <img src="https://github-readme-stats.vercel.app/api?username=somenjeet01&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="Somen Jeet's GitHub Stats"/>
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://github.com/somenjeet01">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=somenjeet01&theme=radical&hide_border=true" height="170" alt="GitHub Streak"/>
+  </a>
+</div>
+
+## 📈 Activity Graph
+<!-- Snake Animation -->
+<div align="center">
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 ## 📚 Education
 
