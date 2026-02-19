@@ -8,6 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github)](https://github.com/somenjeet01)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:somenjeet9@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%209546764006-green)](tel:+919546764006)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue)](https://tech-port-jeet.vercel.app/)
 
 
 ## 👨‍💻 About Me
@@ -28,9 +29,7 @@
 - 💬 Ask me about **React, JavaScript, Mongodb, Express.js, and UI/UX**
 - 📫 Reach me at: **[somenjeet2004@gmail.com](mailto:somenjeet9@gmail.com)**
 - 📍 Based in **Kolkata, India**
-- <a href="https://tech-port-jeet.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Somenjeet-Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Somenjeet Portfolio"/>
-</a>
+  
 
 
 
