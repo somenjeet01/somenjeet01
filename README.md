@@ -9,6 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:somenjeet9@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%209546764006-green)](tel:+919546764006)
 
+
 ## 👨‍💻 About Me
 
 <div align="left">
@@ -83,6 +84,9 @@
   <a href="https://github.com/somenjeet01">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=somenjeet01&theme=radical&hide_border=true" height="170" alt="GitHub Streak"/>
   </a>
+  <a href="https://tech-port-jeet.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+</a>
 </div>
 
 ## 📫 Get In Touch
