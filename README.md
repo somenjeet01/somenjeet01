@@ -28,6 +28,10 @@
 - 💬 Ask me about **React, JavaScript, Mongodb, Express.js, and UI/UX**
 - 📫 Reach me at: **[somenjeet2004@gmail.com](mailto:somenjeet9@gmail.com)**
 - 📍 Based in **Kolkata, India**
+- <a href="https://tech-port-jeet.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Somenjeet-Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Somenjeet Portfolio"/>
+</a>
+
 
 
 
@@ -76,7 +80,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
   <a href="https://github.com/somenjeet01">
     <img src="https://github-readme-stats.vercel.app/api?username=somenjeet01&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="Somen Jeet's GitHub Stats"/>
   </a>
@@ -84,9 +87,6 @@
   <a href="https://github.com/somenjeet01">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=somenjeet01&theme=radical&hide_border=true" height="170" alt="GitHub Streak"/>
   </a>
-  <a href="https://tech-port-jeet.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
-</a>
 </div>
 
 ## 📫 Get In Touch
